@@ -15372,10 +15372,7 @@ This library includes digital and analog Integrated Circuits such as MCUs, shift
 <instance part="C2" gate="G$1" x="83.82" y="96.52"/>
 <instance part="GND2" gate="GND" x="68.58" y="86.36"/>
 <instance part="GND3" gate="GND" x="83.82" y="86.36"/>
-<instance part="R1" gate="G$1" x="111.76" y="119.38" smashed="yes" rot="R90">
-<attribute name="NAME" x="111.76" y="114.3" size="1.524" layer="95" font="vector" ratio="15" rot="R90"/>
-<attribute name="VALUE" x="114.681" y="116.84" size="1.524" layer="96" font="vector" ratio="15" rot="R90"/>
-</instance>
+<instance part="R1" gate="G$1" x="111.76" y="119.38" rot="R90"/>
 <instance part="J1" gate="M10X1" x="167.64" y="97.79"/>
 <instance part="J2" gate="M10X1" x="208.28" y="97.79" rot="R180"/>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
